@@ -3,7 +3,7 @@ useHead({
     meta: [
         {
             name: "go-import",
-            content: "godiscord.foo.ng/lib git https://github.com/AYn0nyme/godiscord"
+            content: "godiscord.foo.ng/lib git https://github.com/godiscordlib/godiscord"
         },
         {
             "http-equiv": "refresh",
